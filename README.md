@@ -1,6 +1,5 @@
 Unary Mode | gRPC in Go Lang and Go Kit
-Skip to end of metadata
-Created by Ahmed Mohammed Asiri, last modified just a moment agoGo to start of metadata
+
 What is Go kit? and why?
 Go kit is the brain child of Peter Bourgon which he talked about during a FOSDEM and the Google Campus London meetup in 2015. As what he has envisioned, Go kit is a toolkit for building microservices in Go.
 
