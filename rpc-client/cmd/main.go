@@ -32,9 +32,4 @@ func main() {
 	}
 	log.Printf("Result: %s", r)
 
-	r2, err2 := c.Add2(ctx, &pb.MathRequest{NumA: 3, NumB: 3})
-	if err2 != nil {
-		log.Fatalf("could not get result: %v", err2)
-	}
-	log.Printf("Result: %s", r2)
 }
