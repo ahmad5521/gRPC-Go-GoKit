@@ -9,7 +9,7 @@ Go kit's concept is based on three major components:
 
 ### Services
 ### Endpoints
-###Transports
+### Transports
 
 ## Services (Business Logic)
 This is where the core business logic of your API is located. In Go kit, each service method are converted into an Endpoint.
